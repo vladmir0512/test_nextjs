@@ -1,0 +1,7 @@
+* {
+  scrollbar-width: thin;
+}
+
+foreignObject > div{
+  position: fixed;
+}
